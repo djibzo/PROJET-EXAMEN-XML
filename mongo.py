@@ -25,7 +25,6 @@ def import_utilisateurs():
     # Insérer dans MongoDB
     for user in root.findall("utilisateur"):
         doc = {
-            "id": int(user.find("id").text),
             "nom": user.find("nom").text,
             "prenom": user.find("prenom").text,
             "email": user.find("email").text
@@ -78,6 +77,6 @@ def utilisateurs_email_gmail():
     for user in resultats:
         print(user)
 
-#supprimer_utilisateur('687e667aeb41b979938d7576')
+#supprimer_utilisateur('687e7a527e14b8aab5747508')
 #ajouter_utilisateur("Fall","Djibril","djibrilf@groupeisi.com")
 afficher_tous_utilisateurs()
