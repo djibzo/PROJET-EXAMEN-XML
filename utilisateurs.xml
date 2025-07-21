@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utilisateurs>
+  <utilisateur>
+    <id>1</id>
+    <nom>Fall</nom>
+    <prenom>Djibril</prenom>
+    <email>djibrilf@groupeisi.com</email>
+  </utilisateur>
+  <utilisateur>
+    <id>2</id>
+    <nom>Sow</nom>
+    <prenom>Awa</prenom>
+    <email>awa@groupeisi.com</email>
+  </utilisateur>
+</utilisateurs>
