@@ -7,9 +7,13 @@
     <email>djibrilf@groupeisi.com</email>
   </utilisateur>
   <utilisateur>
-    <id>2</id>
     <nom>Sow</nom>
     <prenom>Awa</prenom>
     <email>awa@groupeisi.com</email>
+  </utilisateur>
+    <utilisateur>
+    <nom>Ndiaye</nom>
+    <prenom>Fatah</prenom>
+    <email>affndiaye@groupeisi.com</email>
   </utilisateur>
 </utilisateurs>
