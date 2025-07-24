@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE evenements SYSTEM "evenements.dtd">
+<evenements>
+  <evenement>
+    <id>1</id>
+    <titre>Conférence sur l'IA</titre>
+    <date>2025-07-30</date>
+    <lieu>Dakar</lieu>
+  </evenement>
+  <evenement>
+    <id>2</id>
+    <titre>Atelier de programmation</titre>
+    <date>2025-08-15</date>
+    <lieu>Paris</lieu>
+  </evenement>
+</evenements>

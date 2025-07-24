@@ -1,0 +1,6 @@
+<!ELEMENT evenements (evenement*)>
+<!ELEMENT evenement (id, titre, date, lieu)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT titre (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT lieu (#PCDATA)>

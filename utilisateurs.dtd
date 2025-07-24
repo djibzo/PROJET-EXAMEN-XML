@@ -1,0 +1,6 @@
+<!ELEMENT utilisateurs (utilisateur*)>
+<!ELEMENT utilisateur (id?, nom, prenom, email)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
