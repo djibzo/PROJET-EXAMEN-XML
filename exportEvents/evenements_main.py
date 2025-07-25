@@ -1,5 +1,5 @@
 from db_connection import get_db
-from exportEvents.crud_evenements import *
+from crud_evenements import *
 
 def menu_evenements():
     db = get_db()
@@ -45,3 +45,5 @@ def menu_evenements():
 
 if __name__ == "__main__":
     menu_evenements()
+
+
