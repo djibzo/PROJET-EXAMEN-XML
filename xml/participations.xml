@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE participations SYSTEM "participations.dtd">
+<participations>
+  <participation>
+    <id>1</id>
+    <user_id>1</user_id>
+    <event_id>1</event_id>
+    <date_inscription>2025-07-25</date_inscription>
+    <statut>confirmé</statut>
+  </participation>
+  <participation>
+    <id>2</id>
+    <user_id>1</user_id>
+    <event_id>2</event_id>
+    <date_inscription>2025-07-24</date_inscription>
+    <statut>en_attente</statut>
+  </participation>
+  <participation>
+    <id>3</id>
+    <user_id>2</user_id>
+    <event_id>1</event_id>
+    <date_inscription>2025-07-23</date_inscription>
+    <statut>confirmé</statut>
+  </participation>
+</participations>

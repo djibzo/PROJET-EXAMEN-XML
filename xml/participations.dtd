@@ -1,0 +1,7 @@
+<!ELEMENT participations (participation*)>
+<!ELEMENT participation (id, user_id, event_id, date_inscription, statut)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT user_id (#PCDATA)>
+<!ELEMENT event_id (#PCDATA)>
+<!ELEMENT date_inscription (#PCDATA)>
+<!ELEMENT statut (#PCDATA)>
