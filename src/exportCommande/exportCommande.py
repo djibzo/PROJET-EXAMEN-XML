@@ -7,7 +7,6 @@ from variable import uri, client, commandesFile
 
 
 try:
-    # 📦 Connexion au cluster MongoDB
     client = MongoClient(uri)
     db = client["projet_xml"]  # nom de la base
     print("Connexion a la base MongoDB, reussie!")
@@ -18,7 +17,6 @@ except Exception as e:
 def sendToMongoCommandesElements(fileName, commandesCollection):
     tree = ET.parse(fileName)
     root = tree.getroot()
-    # 🔁 Parcourir les commandes
     for commande in root.findall('commande'):
         id_commande = int(commande.find('id').text)
         date = commande.find('date').text
@@ -48,10 +46,9 @@ def sendToMongoCommandesElements(fileName, commandesCollection):
             "produits": produits
         }
 
-        # ✅ Insertion dans MongoDB
         commandesCollection.insert_one(ligne)
 
-    print("✅ Importation des commandes réussie !")
+    print("Importation des commandes réussie !")
 
 
 # Exportation des données XML vers MongoDB
@@ -78,7 +75,7 @@ nouvelle_commande = {
 def addCommande(nouvelle_commande, commandesCollection):
     # 1. CREATE – Ajouter une nouvelle commande
     commandesCollection.insert_one(nouvelle_commande)
-    print("✅ Commande ajoutée avec succès !")
+    print("Commande ajoutée avec succès !")
 
 def getCommandes(commandesCollection):
     # READ – Lire toutes les commandes
@@ -93,12 +90,12 @@ def UpdateCommande(id_commande, nouvelle_valeur, commandesCollection):
         {"id": id_commande},
         {"$set": nouvelle_valeur}
     )
-    print("✅ Commande mise à jour avec succès !")
+    print("Commande mise à jour avec succès !")
 
 def deleteCommande(id_commande, commandesCollection):
     # DELETE – Supprimer une commande (ex: avec id = 2)
     suppr = commandesCollection.delete_one({"id": id_commande})
-    print("✅ Commande supprimée avec succès!")
+    print("Commande supprimée avec succès!")
 
 
 
