@@ -101,3 +101,18 @@ def export_commandes(fileName, commandesCollection):
 
         commandesCollection.insert_one(ligne)
     print("Importation des commandes réussie !")
+
+#categories
+
+def import_categories():
+    categories = db["categories"]
+    tree = ET.parse("categories.xml")
+    root = tree.getroot()
+
+    for cat in root.findall("categorie"):
+        doc = {
+            "nom": cat.find("nom").text,
+            "description": cat.find("description").text
+        }
+        categories.insert_one(doc)
+    print("Importation des catégories terminée.")

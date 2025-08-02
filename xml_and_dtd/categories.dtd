@@ -1,0 +1,5 @@
+<!ELEMENT categories (categorie+)>
+
+<!ELEMENT categorie (nom, description)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT description (#PCDATA)>

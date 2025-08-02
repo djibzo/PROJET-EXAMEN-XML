@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories SYSTEM "categories.dtd">
+<categories>
+  <categorie>
+    <nom>Informatique</nom>
+    <description>Technologies et langages de programmation</description>
+  </categorie>
+  <categorie>
+    <nom>Gestion</nom>
+    <description>Outils et concepts de gestion</description>
+  </categorie>
+  <categorie>
+    <nom>Design</nom>
+    <description>UI/UX et outils graphiques</description>
+  </categorie>
+</categories>
