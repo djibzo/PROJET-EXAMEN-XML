@@ -65,3 +65,39 @@ def exporter_evenements(collection, fichier_xml):
     except Exception as e:
         print(f"Erreur lors de l'exportation : {e}")
         
+
+#Commandes (nomfichier, collection:db['commandes'])
+def export_commandes(fileName, commandesCollection):
+    tree = ET.parse(fileName)
+    root = tree.getroot()
+    for commande in root.findall('commande'):
+        id_commande = int(commande.find('id').text)
+        date = commande.find('date').text
+
+        # Extraire les infos client
+        client_elem = commande.find('client')
+        nom_client = client_elem.find('nom').text
+        email_client = client_elem.find('email').text
+
+        # Extraire les produits
+        produits = []
+        for produit in commande.find('produits').findall('produit'):
+            produits.append({
+                "nom": produit.find('nom').text,
+                "quantite": int(produit.find('quantite').text),
+                "prix": int(produit.find('prix').text)
+            })
+
+        # Structure du document à insérer
+        ligne = {
+            "id": id_commande,
+            "date": date,
+            "client": {
+                "nom": nom_client,
+                "email": email_client
+            },
+            "produits": produits
+        }
+
+        commandesCollection.insert_one(ligne)
+    print("Importation des commandes réussie !")
