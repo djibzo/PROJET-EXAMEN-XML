@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<produits>
+    <produit>
+        <nom>Écouteurs Bluetooth</nom>
+        <quantite_totale>20</quantite_totale>
+        <prix>15000</prix>
+    </produit>
+    <produit>
+        <nom>Ordinateur portable</nom>
+        <quantite_totale>39</quantite_totale>
+        <prix>550000</prix>
+    </produit>
+    <produit>
+        <nom>Smartphone</nom>
+        <quantite_totale>49</quantite_totale>
+        <prix>300000</prix>
+    </produit>
+    <produit>
+        <nom>Clavier mécanique</nom>
+        <quantite_totale>37</quantite_totale>
+        <prix>35000</prix>
+    </produit>
+    <produit>
+        <nom>Chargeur rapide</nom>
+        <quantite_totale>24</quantite_totale>
+        <prix>8000</prix>
+    </produit>
+    <produit>
+        <nom>Souris sans fil</nom>
+        <quantite_totale>27</quantite_totale>
+        <prix>10000</prix>
+    </produit>
+    <produit>
+        <nom>Tablette</nom>
+        <quantite_totale>27</quantite_totale>
+        <prix>250000</prix>
+    </produit>
+    <produit>
+        <nom>Imprimante</nom>
+        <quantite_totale>43</quantite_totale>
+        <prix>120000</prix>
+    </produit>
+    <produit>
+        <nom>Montres</nom>
+        <quantite_totale>27</quantite_totale>
+        <prix>350000</prix>
+    </produit>
+    <produit>
+        <nom>Caméra de surveillance</nom>
+        <quantite_totale>23</quantite_totale>
+        <prix>95000</prix>
+    </produit>
+</produits>

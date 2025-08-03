@@ -1,0 +1,1028 @@
+<?xml version='1.0' encoding='utf-8'?>
+<commandes>
+    <commande>
+        <id>1</id>
+        <date>2025-07-20</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>1</quantite>
+                <prix>15000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>2</id>
+        <date>2025-07-13</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>1</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>3</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>3</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>3</id>
+        <date>2025-07-10</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>5</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>4</quantite>
+                <prix>8000</prix>
+            </produit>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>3</quantite>
+                <prix>10000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>4</id>
+        <date>2025-07-16</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>2</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>5</id>
+        <date>2025-07-13</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>2</quantite>
+                <prix>15000</prix>
+            </produit>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>3</quantite>
+                <prix>15000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>6</id>
+        <date>2025-07-12</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>5</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>1</quantite>
+                <prix>250000</prix>
+            </produit>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>4</quantite>
+                <prix>350000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>7</id>
+        <date>2025-07-20</date>
+        <client>
+            <nom>Moussa Lo</nom>
+            <email>moussa.lo@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>5</quantite>
+                <prix>95000</prix>
+            </produit>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>3</quantite>
+                <prix>95000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>8</id>
+        <date>2025-07-18</date>
+        <client>
+            <nom>Cheikh Gaye</nom>
+            <email>cheikh.gaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>1</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>2</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>9</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>5</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>4</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>1</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>10</id>
+        <date>2025-07-11</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>3</quantite>
+                <prix>350000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>11</id>
+        <date>2025-07-11</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>4</quantite>
+                <prix>15000</prix>
+            </produit>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>2</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>12</id>
+        <date>2025-07-20</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>13</id>
+        <date>2025-07-21</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>1</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>2</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>2</quantite>
+                <prix>35000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>14</id>
+        <date>2025-07-16</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>3</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>2</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>15</id>
+        <date>2025-07-19</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>3</quantite>
+                <prix>250000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>3</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>16</id>
+        <date>2025-07-24</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>4</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>5</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>17</id>
+        <date>2025-07-18</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>5</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>4</quantite>
+                <prix>35000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>18</id>
+        <date>2025-07-12</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>4</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>19</id>
+        <date>2025-07-10</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>1</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>20</id>
+        <date>2025-07-13</date>
+        <client>
+            <nom>Cheikh Gaye</nom>
+            <email>cheikh.gaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>1</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>21</id>
+        <date>2025-07-21</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>5</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>22</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>2</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>3</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>23</id>
+        <date>2025-07-18</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>3</quantite>
+                <prix>350000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>24</id>
+        <date>2025-07-10</date>
+        <client>
+            <nom>Moussa Lo</nom>
+            <email>moussa.lo@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>1</quantite>
+                <prix>8000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>2</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>25</id>
+        <date>2025-07-12</date>
+        <client>
+            <nom>Cheikh Gaye</nom>
+            <email>cheikh.gaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>3</quantite>
+                <prix>95000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>26</id>
+        <date>2025-07-24</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>3</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>27</id>
+        <date>2025-07-11</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>1</quantite>
+                <prix>95000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>28</id>
+        <date>2025-07-24</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>4</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>1</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>29</id>
+        <date>2025-07-21</date>
+        <client>
+            <nom>Cheikh Gaye</nom>
+            <email>cheikh.gaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>1</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>2</quantite>
+                <prix>250000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>4</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>30</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>1</quantite>
+                <prix>8000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>4</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>31</id>
+        <date>2025-07-17</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>2</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>5</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>32</id>
+        <date>2025-07-24</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>5</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>3</quantite>
+                <prix>95000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>33</id>
+        <date>2025-07-22</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>4</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>3</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>34</id>
+        <date>2025-07-16</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>5</quantite>
+                <prix>250000</prix>
+            </produit>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>5</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>4</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>35</id>
+        <date>2025-07-24</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>5</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>36</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>37</id>
+        <date>2025-07-16</date>
+        <client>
+            <nom>Cheikh Gaye</nom>
+            <email>cheikh.gaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>5</quantite>
+                <prix>120000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>38</id>
+        <date>2025-07-10</date>
+        <client>
+            <nom>Aminata Fall</nom>
+            <email>aminata.fall@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>1</quantite>
+                <prix>95000</prix>
+            </produit>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>4</quantite>
+                <prix>350000</prix>
+            </produit>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>4</quantite>
+                <prix>350000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>39</id>
+        <date>2025-07-13</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>1</quantite>
+                <prix>10000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>40</id>
+        <date>2025-07-22</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>4</quantite>
+                <prix>550000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>41</id>
+        <date>2025-07-15</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>1</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>1</quantite>
+                <prix>15000</prix>
+            </produit>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>4</quantite>
+                <prix>120000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>42</id>
+        <date>2025-07-21</date>
+        <client>
+            <nom>Awa Ba</nom>
+            <email>awa.ba@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>3</quantite>
+                <prix>95000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>3</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>2</quantite>
+                <prix>120000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>43</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Ousmane Sarr</nom>
+            <email>ousmane.sarr@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>4</quantite>
+                <prix>8000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>44</id>
+        <date>2025-07-11</date>
+        <client>
+            <nom>Moussa Lo</nom>
+            <email>moussa.lo@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>2</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Tablette</nom>
+                <quantite>4</quantite>
+                <prix>250000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>45</id>
+        <date>2025-07-23</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>5</quantite>
+                <prix>350000</prix>
+            </produit>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>1</quantite>
+                <prix>8000</prix>
+            </produit>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>5</quantite>
+                <prix>10000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>46</id>
+        <date>2025-07-25</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>4</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>5</quantite>
+                <prix>300000</prix>
+            </produit>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>3</quantite>
+                <prix>15000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>47</id>
+        <date>2025-07-18</date>
+        <client>
+            <nom>Fatou Ndiaye</nom>
+            <email>fatou.ndiaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Chargeur rapide</nom>
+                <quantite>2</quantite>
+                <prix>8000</prix>
+            </produit>
+            <produit>
+                <nom>Clavier mécanique</nom>
+                <quantite>3</quantite>
+                <prix>35000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>4</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>48</id>
+        <date>2025-07-16</date>
+        <client>
+            <nom>Moussa Lo</nom>
+            <email>moussa.lo@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Imprimante</nom>
+                <quantite>4</quantite>
+                <prix>120000</prix>
+            </produit>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>1</quantite>
+                <prix>15000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>49</id>
+        <date>2025-07-14</date>
+        <client>
+            <nom>Moussa Diop</nom>
+            <email>moussa.diop@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Souris sans fil</nom>
+                <quantite>4</quantite>
+                <prix>10000</prix>
+            </produit>
+            <produit>
+                <nom>Caméra de surveillance</nom>
+                <quantite>4</quantite>
+                <prix>95000</prix>
+            </produit>
+            <produit>
+                <nom>Montres</nom>
+                <quantite>4</quantite>
+                <prix>350000</prix>
+            </produit>
+        </produits>
+    </commande>
+    <commande>
+        <id>50</id>
+        <date>2025-07-22</date>
+        <client>
+            <nom>Pape Mbaye</nom>
+            <email>pape.mbaye@example.com</email>
+        </client>
+        <produits>
+            <produit>
+                <nom>Ordinateur portable</nom>
+                <quantite>4</quantite>
+                <prix>550000</prix>
+            </produit>
+            <produit>
+                <nom>Écouteurs Bluetooth</nom>
+                <quantite>5</quantite>
+                <prix>15000</prix>
+            </produit>
+            <produit>
+                <nom>Smartphone</nom>
+                <quantite>2</quantite>
+                <prix>300000</prix>
+            </produit>
+        </produits>
+    </commande>
+</commandes>
