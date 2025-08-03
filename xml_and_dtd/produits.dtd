@@ -1,0 +1,6 @@
+<!ELEMENT produits (produit+)>
+
+<!ELEMENT produit (nom, quantite_totale, prix)>
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT quantite_totale (#PCDATA)>
+<!ELEMENT prix (#PCDATA)>
